@@ -1,11 +1,18 @@
 {
   "main.css": "static/css/main.920bc2c8.css",
   "main.css.map": "static/css/main.920bc2c8.css.map",
-  "main.js": "static/js/main.f56567ac.js",
-  "main.js.map": "static/js/main.f56567ac.js.map",
+  "main.js": "static/js/main.4197e9b0.js",
+  "main.js.map": "static/js/main.4197e9b0.js.map",
+  "static/media/allorder.svg": "static/media/allorder.fc66d9e6.svg",
   "static/media/arrowRight.svg": "static/media/arrowRight.ee0b7fca.svg",
-  "static/media/category.svg": "static/media/category.3e463f02.svg",
+  "static/media/category.svg": "static/media/category.0e8a654b.svg",
+  "static/media/countryArea.svg": "static/media/countryArea.9677d4a4.svg",
+  "static/media/delivering.svg": "static/media/delivering.5e5f7ffe.svg",
+  "static/media/deliveryAddress.svg": "static/media/deliveryAddress.cc930ad2.svg",
   "static/media/main.svg": "static/media/main.df9df9f2.svg",
-  "static/media/profile.svg": "static/media/profile.c8e59259.svg",
-  "static/media/shoppingCart.svg": "static/media/shoppingCart.c13cc7a3.svg"
+  "static/media/obligation.svg": "static/media/obligation.0a3d6fd1.svg",
+  "static/media/profile.svg": "static/media/profile.27c97b52.svg",
+  "static/media/receivingGoods.svg": "static/media/receivingGoods.517e2da9.svg",
+  "static/media/shoppingCart.svg": "static/media/shoppingCart.fd2c5a4d.svg",
+  "static/media/sjcam.svg": "static/media/sjcam.e1c3ffff.svg"
 }
